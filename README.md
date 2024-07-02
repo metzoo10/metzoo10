@@ -67,9 +67,7 @@
   <summary>
     <h2>🚀 Projets</h2>
   </summary>
-  <ol>
-    <li><a href="https://github.com/metzoo10/Waan-wi">Waan Wi</a></li>
-  </ol>
+    <h3><a href="https://github.com/metzoo10/Waan-wi">Waan Wi</a></h3>
     <span>
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS" /> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
     </span>
@@ -77,9 +75,7 @@
       <li>Application mobile de recettes sénégalaises.</li>
       <li>Projet de classe utilisant la technologie Ionic et une base de données API JSON.</li>
     </ul>
-  <ol>
-    <li><a href="https://github.com/metzoo10/metzoo10.github.io">Portfolio</a></li>
-  </ol>
+    <h3><a href="https://github.com/metzoo10/metzoo10.github.io">Portfolio</a></h3>
     <span>
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
     </span>
@@ -87,9 +83,7 @@
       <li>Portfolio professionnel où je partage mes compétences, objectifs professionnels et expériences.</li>
       <li>Site hébergé à travers GitHub Pages. Le lien <a href="https://metzoo10.github.io">ici</a>.</li>
     </ul>
-  <ol>
-    <li><a href="https://github.com/metzoo10/Convertisseur">Convertisseur de devis</a></li>
-  </ol>
+    <h3><a href="https://github.com/metzoo10/Convertisseur">Convertisseur de devis</a></h3>
     <span>
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     </span>
@@ -109,12 +103,18 @@
 </details>
 <details>
   <summary><h2>🌐 Réseaux sociaux</h2></summary>
-  <img src="" /> <img src="" /> <img src="" />
+  <p>
+    <a href="https://github.com/metzoo10"><img src="images/github.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/mouhamed-ba-a166b9200/"><img src="images/linkedin.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://twitter.com/metzoooo__"><img src="images/x.png" /></a>
+  </p>
 </details>
 <h2>📩 Contactez-Moi</h2>
+<br>
+<br>
   <p>
-    <i>Vous pouvez me contacter via</i>
+    <i>Vous pouvez me contacter via</i>&nbsp;&nbsp;&nbsp;
     <a href="mailto:metzotellem@gmail.com">
-      <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Gmail.gif" width="100"/>
+      <img align="center" src="images/gmail.gif" width="100" height="75"/>
     </a>
   </p>
