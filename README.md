@@ -1,7 +1,9 @@
-## Hi there 👋
-![Header](images/github-header-image.png)
-<!--
-**metzoo10/metzoo10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Mouhamed Ba</h2>
+<div align="center">
+  <img src="images/github-header-image.png" alt="Header" />
+</div>
+
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
