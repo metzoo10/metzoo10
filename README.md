@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Header](./github-header-image.png)
+![Header](images/github-header-image.png)
 <!--
 **metzoo10/metzoo10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
