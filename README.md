@@ -7,7 +7,7 @@
   </a>
 </h2>
 <div align="center">
-  <img src="images/github-header-image.png" alt="Header" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG93eGswMWNhaXdoNGpsc3M3bWVlaHh6Zzh3ZjBmbWxvaHVjNnB1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d1E2VyhFsxawRbeo/giphy.gif" alt="Header" />
 </div>
 <h2>😎 À Propos de moi</h2>
 <p>Je suis un étudiant en développement web et mobile, passionné par la technologie et désireux de plonger dans le domaine en constante évolution du développement de logiciels. J'aime créer des projets innovants et partager mes connaissances avec la communauté. J'aime aussi résoudre des problèmes difficiles et créer des solutions innovantes.</p>
