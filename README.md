@@ -1,4 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mouhamed Ba</h2>
+<h2 align="center">
+  <img src="https://komarev.com/ghpvc/?username=metzoo10&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;" />
+  Développeur Front-End
+  <a href="https://metzoo10.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;" />
+  </a>
+</h2>
 <div align="center">
   <img src="images/github-header-image.png" alt="Header" />
 </div>
@@ -59,6 +66,55 @@
 <details>
   <summary>
     <h2>🚀 Projets</h2>
-    
   </summary>
+  <ol>
+    <li><a href="https://github.com/metzoo10/Waan-wi">Waan Wi</a></li>
+  </ol>
+    <span>
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS" /> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+    </span>
+    <ul >
+      <li>Application mobile de recettes sénégalaises.</li>
+      <li>Projet de classe utilisant la technologie Ionic et une base de données API JSON.</li>
+    </ul>
+  <ol>
+    <li><a href="https://github.com/metzoo10/metzoo10.github.io">Portfolio</a></li>
+  </ol>
+    <span>
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+    </span>
+    <ul>
+      <li>Portfolio professionnel où je partage mes compétences, objectifs professionnels et expériences.</li>
+      <li>Site hébergé à travers GitHub Pages. Le lien <a href="https://metzoo10.github.io">ici</a>.</li>
+    </ul>
+  <ol>
+    <li><a href="https://github.com/metzoo10/Convertisseur">Convertisseur de devis</a></li>
+  </ol>
+    <span>
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    </span>
+    <ul>
+      <li>Convertisseur de devis entre le FCFA, le Dollar et l'Euro.</li>
+      <li>Projet d'étudiant, utilisant principalement JavaScript pour la logique.</li>
+    </ul>
 </details>
+<details>
+  <summary><h2>📊 Stats</h2></summary>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=metzoo10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" /> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=metzoo10&theme=tokyonight&hide_border=false" /> <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metzoo10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /> <br/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=metzoo10&theme=tokyo-night" /> <br/>
+  </div>
+</details>
+<details>
+  <summary><h2>🌐 Réseaux sociaux</h2></summary>
+  <img src="" /> <img src="" /> <img src="" />
+</details>
+<h2>📩 Contactez-Moi</h2>
+  <p>
+    <i>Vous pouvez me contacter via</i>
+    <a href="mailto:metzotellem@gmail.com">
+      <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Gmail.gif" width="100"/>
+    </a>
+  </p>
