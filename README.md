@@ -20,7 +20,8 @@
         <h3>👨🏾‍🎓 Formations</h3>
       </summary>
         <div align="center">
-          <p>- 3ème année de Licence en Informatique Développement d'Applications web et mobile à l'Université Numérique Cheikh Hamidou Kane | En cours</p>
+          <p>- Master 1 en Informatique Développement d'Applications web et mobile à l'Université Numérique Cheikh Hamidou Kane | En cours</p>
+          <p>- Licence en Informatique Développement d'Applications web et mobile à l'Université Numérique Cheikh Hamidou Kane | 2024</p>
           <p>- Baccalauréat Série S2 au Lycée Banque Islamique | 2020</p>
         </div>
   </details>
